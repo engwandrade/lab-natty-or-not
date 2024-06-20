@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Crew AI API Car Trip Planner
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Multi-agentes AI responsáveis por buscar dados em uma API pegando as informações do cliente, 
+como nome, oirigem, destino, etc, calcular a melhor rota, planejar os locais turisticos na rota, e validar tudo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Crew AI, Llama3, GPT-4, Flask, SQL.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro criei um servidor Flask no colab pra simular os pedidos dos clientes no site, depois em outro colab rodando o crew ai, crio os agentes e respectivas tarefas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi bem promissor, com os agentes conseguindo obter a distancia das rotas e melhores passeios
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Os principais desafios de criar algoritmos com IA é que como é uma tecnologia q avança mt rápido, em pouco tempo os script ja nao roda mais e é necessário revisar e atualizar.
 
 ### Exemplos e Insigths
 
